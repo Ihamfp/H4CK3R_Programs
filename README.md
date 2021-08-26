@@ -1,2 +1,5 @@
 # H4CK3R_Programs
-Edgy-looking h4ck3r programs that just look like they're from a hacking movie/game
+
+Currently only contains visual clones of the programs from [Hacknet](https://hacknet-os.com/).
+
+Ow, the edge.
